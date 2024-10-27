@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Code\\CustomControlTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|g:\\code\\customcontroltest\\wpfapp11\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|solutionrelative:wpfapp11\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|g:\\code\\customcontroltest\\wpfapp11\\customdictionary.lex||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|solutionrelative:wpfapp11\\customdictionary.lex||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\repository\\HaruaConvert\\WpfApp3\\obj\\Debug\\net8.0-windows10.0.22621.0\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|g:\\code\\customcontroltest\\wpfapp11\\pulldowntextboxexultimetsheep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|solutionrelative:wpfapp11\\pulldowntextboxexultimetsheep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|g:\\code\\customcontroltest\\wpfapp11\\texteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|solutionrelative:wpfapp11\\texteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|g:\\code\\customcontroltest\\wpfapp11\\togglecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|solutionrelative:wpfapp11\\togglecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|g:\\code\\customcontroltest\\wpfapp11\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|solutionrelative:wpfapp11\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|g:\\code\\customcontroltest\\wpfapp11\\wpfapp11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|solutionrelative:wpfapp11\\wpfapp11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|g:\\code\\customcontroltest\\wpfapp11\\wpfapp11.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|solutionrelative:wpfapp11\\wpfapp11.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|g:\\code\\customcontroltest\\wpfapp11\\themes\\pulldowntextboxstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|solutionrelative:wpfapp11\\themes\\pulldowntextboxstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|g:\\code\\customcontroltest\\wpfapp11\\customspellcheck_partial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|solutionrelative:wpfapp11\\customspellcheck_partial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|g:\\code\\customcontroltest\\wpfapp11\\customspellcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|solutionrelative:wpfapp11\\customspellcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|g:\\code\\customcontroltest\\wpfapp11\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|solutionrelative:wpfapp11\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|g:\\code\\customcontroltest\\wpfapp11\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|solutionrelative:wpfapp11\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\AppData\\Local\\Temp\\.vsdbgsrc\\ad2f7765c0a0f58e212890f031e9ad09005981b1fd6d8564c7186ffc6232d8e1\\TextBoxBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|g:\\code\\customcontroltest\\wpfapp11\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48657A94-C014-4C6E-9368-A157D4379A77}|WpfApp11\\WpfApp11.csproj|solutionrelative:wpfapp11\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.g.cs",
+              "DocumentMoniker": "F:\\repository\\HaruaConvert\\WpfApp3\\obj\\Debug\\net8.0-windows10.0.22621.0\\App.g.cs",
+              "ToolTip": "F:\\repository\\HaruaConvert\\WpfApp3\\obj\\Debug\\net8.0-windows10.0.22621.0\\App.g.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T16:51:56.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\Code\\CustomControlTest\\WpfApp11\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp11\\MainWindow.xaml",
+              "ToolTip": "G:\\Code\\CustomControlTest\\WpfApp11\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp11\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-27T15:09:51.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PulldownTextBoxExUltimetSheep.cs",
+              "DocumentMoniker": "G:\\Code\\CustomControlTest\\WpfApp11\\PulldownTextBoxExUltimetSheep.cs",
+              "RelativeDocumentMoniker": "WpfApp11\\PulldownTextBoxExUltimetSheep.cs",
+              "ToolTip": "G:\\Code\\CustomControlTest\\WpfApp11\\PulldownTextBoxExUltimetSheep.cs",
+              "RelativeToolTip": "WpfApp11\\PulldownTextBoxExUltimetSheep.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAMwGcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:26:22.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\Code\\CustomControlTest\\WpfApp11\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp11\\MainWindow.xaml.cs",
+              "ToolTip": "G:\\Code\\CustomControlTest\\WpfApp11\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp11\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAMwDkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T01:36:31.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "customDictionary.lex",
+              "DocumentMoniker": "G:\\Code\\CustomControlTest\\WpfApp11\\customDictionary.lex",
+              "RelativeDocumentMoniker": "WpfApp11\\customDictionary.lex",
+              "ToolTip": "G:\\Code\\CustomControlTest\\WpfApp11\\customDictionary.lex",
+              "RelativeToolTip": "WpfApp11\\customDictionary.lex",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACjSURBVDhPY2TAAV5bMwgAqQAgjgdiByD\u002BAMQXgPggEB8QPcpwgOH///8YBgA1ghSDNIE0gwzBCoAGgPWCCaAmBSCVAMQgjSA2QYBuwH8QjQRATgXhi1B6PxCjAJwGwCSQARYL4OqYwDwKwKgBg8mAB0A8AYgDwTwSADzRABMLKO0bQHhgA0EYBvCnRBiA5glYDoQZhhVgNQAZYDEMMzszMDAAAPbfLddFVXxrAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-10-27T04:12:18.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WpfApp11.csproj",
+              "DocumentMoniker": "G:\\Code\\CustomControlTest\\WpfApp11\\WpfApp11.csproj",
+              "RelativeDocumentMoniker": "WpfApp11\\WpfApp11.csproj",
+              "ToolTip": "G:\\Code\\CustomControlTest\\WpfApp11\\WpfApp11.csproj",
+              "RelativeToolTip": "WpfApp11\\WpfApp11.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-27T14:52:34.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToggleControl.cs",
+              "DocumentMoniker": "G:\\Code\\CustomControlTest\\WpfApp11\\ToggleControl.cs",
+              "RelativeDocumentMoniker": "WpfApp11\\ToggleControl.cs",
+              "ToolTip": "G:\\Code\\CustomControlTest\\WpfApp11\\ToggleControl.cs",
+              "RelativeToolTip": "WpfApp11\\ToggleControl.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T02:03:30.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextEditor.cs",
+              "DocumentMoniker": "G:\\Code\\CustomControlTest\\WpfApp11\\TextEditor.cs",
+              "RelativeDocumentMoniker": "WpfApp11\\TextEditor.cs",
+              "ToolTip": "G:\\Code\\CustomControlTest\\WpfApp11\\TextEditor.cs",
+              "RelativeToolTip": "WpfApp11\\TextEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:39:56.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomSpellCheck.cs",
+              "DocumentMoniker": "G:\\Code\\CustomControlTest\\WpfApp11\\CustomSpellCheck.cs",
+              "RelativeDocumentMoniker": "WpfApp11\\CustomSpellCheck.cs",
+              "ToolTip": "G:\\Code\\CustomControlTest\\WpfApp11\\CustomSpellCheck.cs",
+              "RelativeToolTip": "WpfApp11\\CustomSpellCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:09:25.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WpfApp11",
+              "DocumentMoniker": "G:\\Code\\CustomControlTest\\WpfApp11\\WpfApp11.csproj",
+              "RelativeDocumentMoniker": "WpfApp11\\WpfApp11.csproj",
+              "ToolTip": "G:\\Code\\CustomControlTest\\WpfApp11\\WpfApp11.csproj",
+              "RelativeToolTip": "WpfApp11\\WpfApp11.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-27T15:07:45.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomSpellCheck_partial1.cs",
+              "DocumentMoniker": "G:\\Code\\CustomControlTest\\WpfApp11\\CustomSpellCheck_partial1.cs",
+              "RelativeDocumentMoniker": "WpfApp11\\CustomSpellCheck_partial1.cs",
+              "ToolTip": "G:\\Code\\CustomControlTest\\WpfApp11\\CustomSpellCheck_partial1.cs",
+              "RelativeToolTip": "WpfApp11\\CustomSpellCheck_partial1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAlwBAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:33:28.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PullDownTextBoxStyle.xaml",
+              "DocumentMoniker": "G:\\Code\\CustomControlTest\\WpfApp11\\Themes\\PullDownTextBoxStyle.xaml",
+              "RelativeDocumentMoniker": "WpfApp11\\Themes\\PullDownTextBoxStyle.xaml",
+              "ToolTip": "G:\\Code\\CustomControlTest\\WpfApp11\\Themes\\PullDownTextBoxStyle.xaml",
+              "RelativeToolTip": "WpfApp11\\Themes\\PullDownTextBoxStyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T15:11:36.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FileName.cs",
+              "DocumentMoniker": "G:\\Code\\CustomControlTest\\WpfApp11\\FileName.cs",
+              "RelativeDocumentMoniker": "WpfApp11\\FileName.cs",
+              "ToolTip": "G:\\Code\\CustomControlTest\\WpfApp11\\FileName.cs",
+              "RelativeToolTip": "WpfApp11\\FileName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T02:02:11.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "G:\\Code\\CustomControlTest\\WpfApp11\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp11\\App.xaml",
+              "ToolTip": "G:\\Code\\CustomControlTest\\WpfApp11\\App.xaml",
+              "RelativeToolTip": "WpfApp11\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T15:37:34.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "G:\\Code\\CustomControlTest\\WpfApp11\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "WpfApp11\\Themes\\Generic.xaml",
+              "ToolTip": "G:\\Code\\CustomControlTest\\WpfApp11\\Themes\\Generic.xaml",
+              "RelativeToolTip": "WpfApp11\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T02:04:24.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TextBoxBase.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\AppData\\Local\\Temp\\.vsdbgsrc\\ad2f7765c0a0f58e212890f031e9ad09005981b1fd6d8564c7186ffc6232d8e1\\TextBoxBase.cs",
+              "ToolTip": "C:\\Users\\USER\\AppData\\Local\\Temp\\.vsdbgsrc\\ad2f7765c0a0f58e212890f031e9ad09005981b1fd6d8564c7186ffc6232d8e1\\TextBoxBase.cs",
+              "ViewState": "AgIAAIIGAAAAAAAAAAAIwIEGAAAYAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:59:52.052Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 149,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

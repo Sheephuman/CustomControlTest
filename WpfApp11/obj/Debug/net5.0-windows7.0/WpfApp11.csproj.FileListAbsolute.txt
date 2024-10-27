@@ -1,0 +1,5 @@
+G:\Code\CustomControlTest\WpfApp11\obj\Debug\net5.0-windows7.0\MainWindow.g.cs
+G:\Code\CustomControlTest\WpfApp11\obj\Debug\net5.0-windows7.0\App.g.cs
+G:\Code\CustomControlTest\WpfApp11\obj\Debug\net5.0-windows7.0\GeneratedInternalTypeHelper.g.cs
+G:\Code\CustomControlTest\WpfApp11\obj\Debug\net5.0-windows7.0\WpfApp11_MarkupCompile.cache
+G:\Code\CustomControlTest\WpfApp11\obj\Debug\net5.0-windows7.0\WpfApp11_MarkupCompile.lref

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:WpfApp11">
+    <Style TargetType="{x:Type local:ToggleControl}">
+
+          <Setter Property="SnapsToDevicePixels" Value="True" />
+      <Setter Property="UseLayoutRounding" Value="True" />
+      <Setter Property="FocusVisualStyle" Value="{x:Null}" />
+      <Setter Property="HorizontalAlignment" Value="Left" />
+      <Setter Property="VerticalAlignment" Value="Top" />
+
+
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type local:ToggleControl}">
+                    <Grid Width="50" Height="30">
+
+                        <Border x:Name="SwitchBackground"
+                                CornerRadius="15"
+                                Background="LightGray" />
+          
+                        <Ellipse x:Name="SwitchKnob"
+                                 Width="24" Height="24"
+                                 Fill="White"
+                                 Margin="3,3,3,3"
+                                 HorizontalAlignment="Left" />
+                    </Grid>
+                    <ControlTemplate.Triggers>
+
+                        <Trigger Property="IsChecked" Value="True">
+                            <Setter TargetName="SwitchBackground" Property="Background" Value="darkGray"/>
+                            <Setter TargetName="SwitchKnob" Property="HorizontalAlignment" Value="Right"/>
+                        </Trigger>
+                  
+                        <Trigger Property="IsChecked" Value="False">
+                            <Setter TargetName="SwitchBackground" Property="Background" Value="LightGray"/>
+                            <Setter TargetName="SwitchKnob" Property="HorizontalAlignment" Value="Left"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ResourceDictionary>

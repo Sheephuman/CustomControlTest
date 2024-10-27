@@ -1,0 +1,4 @@
+﻿{input}
+-ss
+-t
+{output}
